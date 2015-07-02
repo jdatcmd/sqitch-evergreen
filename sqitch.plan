@@ -6,3 +6,6 @@ create_extensions [evergreen] 2015-07-02T20:50:56Z Joshua D. Drake <Joshua D. Dr
 000.english.pgfts-config [create_extensions] 2015-07-02T21:05:13Z Joshua D. Drake <jd@commandprompt.com> # add the full text requirement
 functions.general [create_extensions] 2015-07-02T21:13:36Z Joshua D. Drake <jd@commandprompt.com> # Add the general functions
 schema.offline [functions.general] 2015-07-02T21:19:46Z Joshua D. Drake <jd@commandprompt.com> # add the offline schema
+functions.aggregate [schema.offline] 2015-07-02T21:49:30Z Joshua D. Drake <jd@commandprompt.com> # add aggregate functions
+schema.config [functions.aggregate] 2015-07-02T22:06:40Z Joshua D. Drake <jd@commandprompt.com> # add config functions
+functions.config [functions.aggregate] 2015-07-02T21:58:26Z Joshua D. Drake <jd@commandprompt.com> # add config functions
