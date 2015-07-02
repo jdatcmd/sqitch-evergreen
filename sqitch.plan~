@@ -1,7 +1,0 @@
-%syntax-version=1.0.0
-%project=evergreen
-
-evergreen 2015-07-02T20:45:40Z Joshua D. Drake <Joshua D. Drake> # initial evergreen config
-create_extensions [evergreen] 2015-07-02T20:50:56Z Joshua D. Drake
- <Joshua D. Drake
-> # First we create extensions
