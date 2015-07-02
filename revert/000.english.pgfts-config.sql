@@ -1,5 +1,7 @@
 -- Revert evergreen:000.english.pgfts-config from pg
 
+\c evergreen postgres;
+
 BEGIN;
 
 SET search_path = public, pg_catalog;

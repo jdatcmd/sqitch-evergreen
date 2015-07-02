@@ -1,6 +1,8 @@
 -- Deploy evergreen:functions.general to pg
 -- requires: create_extensions
 
+\c evergreen evergreen;
+
 BEGIN;
 
 -- Rather than polluting the public schema with general Evergreen

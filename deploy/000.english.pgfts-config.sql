@@ -1,6 +1,8 @@
 -- Deploy evergreen:000.english.pgfts-config to pg
 -- requires: create_extensions
 
+\c evergreen evergreen;
+
 BEGIN;
 /*
  * Copyright (C) 2004-2008  Georgia Public Library Service
