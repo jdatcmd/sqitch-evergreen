@@ -1,0 +1,16 @@
+-- Deploy evergreen:create_extensions to pg
+-- requires: evergreen
+
+BEGIN;
+
+\c evergreen postgres;
+
+CREATE LANGUAGE plperlu;
+
+CREATE EXTENSION tablefunc;
+CREATE EXTENSION xml2;
+CREATE EXTENSION hstore;
+CREATE EXTENSION intarray;
+
+COMMIT;
+

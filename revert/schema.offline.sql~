@@ -1,0 +1,7 @@
+-- Revert evergreen:schema.offline from pg
+
+BEGIN;
+
+DROP SCHEMA IF EXISTS offline CASCADE;
+
+COMMIT;
