@@ -10,3 +10,15 @@ functions.aggregate [schema.offline] 2015-07-02T21:49:30Z Joshua D. Drake <jd@co
 schema.config [functions.aggregate] 2015-07-02T22:06:40Z Joshua D. Drake <jd@commandprompt.com> # add config functions
 functions.config [functions.aggregate] 2015-07-02T21:58:26Z Joshua D. Drake <jd@commandprompt.com> # add config functions
 schema.actors [create_extensions] 2015-07-03T19:45:55Z Joshua D. Drake <jd@commandprompt.com> # Actors schema
+schema.permissions [create_extensions] 2015-07-03T20:09:32Z Joshua D. Drake <jd@commandprompt.com> # perm schema
+schema.query [create_extensions] 2015-07-03T20:09:32Z Joshua D. Drake <jd@commandprompt.com> # query schema
+schema.biblio [create_extensions] 2015-07-03T20:09:32Z Joshua D. Drake <jd@commandprompt.com> # biblio schema
+schema.authority [create_extensions] 2015-07-03T20:09:32Z Joshua D. Drake <jd@commandprompt.com> # authority schema
+schema.vandelay [create_extensions] 2015-07-03T20:09:33Z Joshua D. Drake <jd@commandprompt.com> # vandelay schema
+schema.staging [create_extensions] 2015-07-03T20:09:33Z Joshua D. Drake <jd@commandprompt.com> # staging schema
+schema.functions [create_extensions] 2015-07-03T20:09:33Z Joshua D. Drake <jd@commandprompt.com> # functions schema
+schema.metabib [create_extensions] 2015-07-03T20:09:33Z Joshua D. Drake <jd@commandprompt.com> # metabib schema
+schema.asset [create_extensions] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # asset schema
+schema.container [create_extensions] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # container schema
+url_verify.schema [create_extensions] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # url_verify schema
+url_verify.functions [url_verify.schema] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # url_verify functions
