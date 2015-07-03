@@ -9,3 +9,4 @@ schema.offline [functions.general] 2015-07-02T21:19:46Z Joshua D. Drake <jd@comm
 functions.aggregate [schema.offline] 2015-07-02T21:49:30Z Joshua D. Drake <jd@commandprompt.com> # add aggregate functions
 schema.config [functions.aggregate] 2015-07-02T22:06:40Z Joshua D. Drake <jd@commandprompt.com> # add config functions
 functions.config [functions.aggregate] 2015-07-02T21:58:26Z Joshua D. Drake <jd@commandprompt.com> # add config functions
+schema.actors [create_extensions] 2015-07-03T19:45:55Z Joshua D. Drake <jd@commandprompt.com> # Actors schema
