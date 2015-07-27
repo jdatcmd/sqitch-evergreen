@@ -29,11 +29,12 @@ matrix_weights [create_extensions] 2015-07-27T16:09:30Z Joshua D. Drake <jd@comm
 circ_matrix [create_extensions] 2015-07-27T16:09:30Z Joshua D. Drake <jd@commandprompt.com> # circ matrix
 hold_matrix [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # hold matrix
 floating_groups [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # floating groups
-schema.acq [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # acq schema
-acq.audit-functions [schema.acq] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # audit functions
+schema.reporter [create_extensions] 2015-07-27T17:53:58Z Joshua D. Drake <jd@commandprompt.com> # just added
 schema.serials [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # serials schema
 schema.staged_search [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # staged search schema
 schema.action_trigger [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # action trigger
+schema.acq [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # acq schema
+acq.audit-functions [schema.acq] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # audit functions
 view.cross-schema [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # cross-schema-view
 fkeys [create_extensions] 2015-07-27T16:09:33Z Joshua D. Drake <jd@commandprompt.com> # foreign keys
 audit-functions [create_extensions] 2015-07-27T16:09:33Z Joshua D. Drake <jd@commandprompt.com> # audit functions
@@ -46,3 +47,4 @@ data.marc21expand880 [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <j
 data.MODS33-xsl [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # mods33 xsl
 schema.unapi [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # unapi schema
 functions.global [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # global functions
+
