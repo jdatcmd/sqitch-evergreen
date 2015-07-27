@@ -2,7 +2,7 @@
 
 BEGIN;
 
-DROP SCHEMA IF EXISTS permissions CASCADE;
+DROP SCHEMA IF EXISTS permission CASCADE;
 -- XXX Add DDLs here.
 
 COMMIT;
