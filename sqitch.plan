@@ -22,3 +22,27 @@ schema.asset [create_extensions] 2015-07-03T20:09:34Z Joshua D. Drake <jd@comman
 schema.container [create_extensions] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # container schema
 url_verify.schema [create_extensions] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # url_verify schema
 url_verify.functions [url_verify.schema] 2015-07-03T20:09:34Z Joshua D. Drake <jd@commandprompt.com> # url_verify functions
+schema.money [create_extensions] 2015-07-27T16:09:29Z Joshua D. Drake <jd@commandprompt.com> # money schema
+schema.action [create_extensions] 2015-07-27T16:09:29Z Joshua D. Drake <jd@commandprompt.com> # action schema
+schema.booking [create_extensions] 2015-07-27T16:09:30Z Joshua D. Drake <jd@commandprompt.com> # booking schema
+matrix_weights [create_extensions] 2015-07-27T16:09:30Z Joshua D. Drake <jd@commandprompt.com> # matrix weights
+circ_matrix [create_extensions] 2015-07-27T16:09:30Z Joshua D. Drake <jd@commandprompt.com> # circ matrix
+hold_matrix [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # hold matrix
+floating_groups [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # floating groups
+schema.acq [create_extensions] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # acq schema
+acq.audit-functions [schema.acq] 2015-07-27T16:09:31Z Joshua D. Drake <jd@commandprompt.com> # audit functions
+schema.serials [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # serials schema
+schema.staged_search [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # staged search schema
+schema.action_trigger [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # action trigger
+view.cross-schema [create_extensions] 2015-07-27T16:09:32Z Joshua D. Drake <jd@commandprompt.com> # cross-schema-view
+fkeys [create_extensions] 2015-07-27T16:09:33Z Joshua D. Drake <jd@commandprompt.com> # foreign keys
+audit-functions [create_extensions] 2015-07-27T16:09:33Z Joshua D. Drake <jd@commandprompt.com> # audit functions
+audit-tables [audit-functions] 2015-07-27T16:09:33Z Joshua D. Drake <jd@commandprompt.com> # audit tables
+data.seed-values [create_extensions] 2015-07-27T16:09:33Z Joshua D. Drake <jd@commandprompt.com> # seed values
+data.MODS-xsl [create_extensions] 2015-07-27T16:09:34Z Joshua D. Drake <jd@commandprompt.com> # mods xsl
+data.MODS3-xsl [create_extensions] 2015-07-27T16:09:34Z Joshua D. Drake <jd@commandprompt.com> # mods3 xsl
+data.MODS32-xsl [create_extensions] 2015-07-27T16:09:34Z Joshua D. Drake <jd@commandprompt.com> # mods32 xsl
+data.marc21expand880 [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # marc21expand880
+data.MODS33-xsl [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # mods33 xsl
+schema.unapi [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # unapi schema
+functions.global [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # global functions
