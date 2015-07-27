@@ -2,6 +2,7 @@
 
 BEGIN;
 
+DROP SCHEMA IF EXISTS container CASCADE;
 -- XXX Add DDLs here.
 
 COMMIT;

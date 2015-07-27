@@ -2,6 +2,8 @@
 
 BEGIN;
 
+DROP SCHEMA IF EXISTS metabib CASCADE;
+
 -- XXX Add DDLs here.
 
 COMMIT;

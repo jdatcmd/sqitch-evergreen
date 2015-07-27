@@ -2,6 +2,7 @@
 
 BEGIN;
 
+DROP SCHEMA IF EXISTS authority CASCADE;
 -- XXX Add DDLs here.
 
 COMMIT;

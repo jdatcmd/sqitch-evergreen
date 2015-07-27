@@ -2,6 +2,7 @@
 
 BEGIN;
 
+DROP SCHEMA IF EXISTS action_trigger CASCADE;
 -- XXX Add DDLs here.
 
 COMMIT;

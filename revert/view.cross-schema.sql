@@ -2,6 +2,6 @@
 
 BEGIN;
 
--- XXX Add DDLs here.
+-- currently not required as everything is within config. or money. which are reverted from their own scripts
 
 COMMIT;
