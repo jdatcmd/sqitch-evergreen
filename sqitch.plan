@@ -47,4 +47,8 @@ data.marc21expand880 [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <j
 data.MODS33-xsl [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # mods33 xsl
 schema.unapi [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # unapi schema
 functions.global [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@commandprompt.com> # global functions
+@1.0.1 2015-08-11T20:07:19Z Joshua D. Drake <jd@commandprompt.com> # fixed reporter serial issue\n`
 
+
+add_setting_for_selecting_lists_per_page_for_my_list 2015-08-11T20:08:25Z Joshua D. Drake <jd@commandprompt.com> # initial push for kcls changes
+kmig57-default_search_location_trigger 2015-08-11T20:11:04Z Joshua D. Drake <jd@commandprompt.com> # adding kmig57
