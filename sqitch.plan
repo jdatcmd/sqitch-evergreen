@@ -51,3 +51,14 @@ functions.global [create_extensions] 2015-07-27T16:09:35Z Joshua D. Drake <jd@co
 
 
 kmig57-default_search_location_trigger 2015-08-11T20:11:04Z Joshua D. Drake <jd@commandprompt.com> # adding kmig57
+kmain-91-upgrad-98_user_activity_types 2015-08-11T20:16:34Z Joshua D. Drake <jd@commandprompt.com> # user_activity_types
+kmig-147 2015-08-11T20:18:41Z Joshua D. Drake <jd@commandprompt.com> # kmig-147
+kmig-187 2015-08-11T20:26:43Z Joshua D. Drake <jd@commandprompt.com> # kmig 187
+kmain221.0815.schema.config-metabib-interauthority 2015-08-11T20:31:42Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0816.schema.bib-auth-browse 2015-08-11T20:32:00Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0821.function.browse-normalize-timing 2015-08-11T20:32:44Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0837.schema.browse-auth-linking.plus-joiner 2015-08-11T20:32:57Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0839.data.alternative-title-indexing 2015-08-11T20:33:11Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0844.data.better_mods_for_browse_etc 2015-08-11T20:33:41Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0845.schema.browse_pivots_stable 2015-08-11T20:34:00Z Joshua D. Drake <jd@commandprompt.com> # added
+kmain221.0846.function.vand-add_field 2015-08-11T20:34:14Z Joshua D. Drake <jd@commandprompt.com> # added
