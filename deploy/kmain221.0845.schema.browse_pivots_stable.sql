@@ -1,7 +1,8 @@
--- Deploy evergreen:kmain221.0845.schema.browse_pivots_stable to pg
-
 BEGIN;
 
--- XXX Add DDLs here.
+ALTER FUNCTION metabib.browse_pivot (integer[], text) STABLE;
+ALTER FUNCTION metabib.browse_bib_pivot (integer[], text) STABLE;
+ALTER FUNCTION metabib.browse_authority_pivot (integer[], text) STABLE;
+ALTER FUNCTION metabib.browse_authority_refs_pivot (integer[], text) STABLE;
 
 COMMIT;
